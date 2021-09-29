@@ -1,0 +1,52 @@
+CREATE DATABASE BP_Stats;
+USE BP_Stats;
+
+CREATE TABLE Country(
+   id_country VARCHAR(20),
+   Region_ VARCHAR(20),
+   SubRegion VARCHAR(20),
+   PRIMARY KEY(id_country)
+);
+
+CREATE TABLE Fossil_Energy(
+   id_country VARCHAR(20),
+   coalcons_ej FLOAT(30),
+   coalprod_ej FLOAT(30),
+   gascons_ej FLOAT(30),
+   gasprod_ej FLOAT(30),
+   oilcons_ej FLOAT(30),
+   oilprod_kbd FLOAT(30),
+   Years INT NOT NULL,
+   PRIMARY KEY(id_country,Years),
+   FOREIGN KEY(id_country) REFERENCES Country(id_country)
+);
+
+CREATE TABLE Clean_Energy(
+   id_country VARCHAR(20),
+   renewables_ej FLOAT(30),
+   ren_power_ej FLOAT(30),
+   biofuels_cons_ej FLOAT(30),
+   biofuels_prod_pj FLOAT(30),
+   Years INT NOT NULL,
+   PRIMARY KEY(id_country,Years),
+   FOREIGN KEY(id_country) REFERENCES Country(id_country)
+);
+
+CREATE TABLE Key_Minerals(
+   id_country VARCHAR(20),
+   lithium_kt FLOAT(30),
+   cobalt_kt FLOAT(30),
+   graphite_kt FLOAT(30),
+   rareearths_kt FLOAT(30),
+   Years INT NOT NULL,
+   PRIMARY KEY(id_country,Years),
+   FOREIGN KEY(id_country) REFERENCES Country(id_country)
+);
+
+CREATE TABLE Population(
+   id_country VARCHAR(20),
+   pop FLOAT(30),
+   Years INT NOT NULL,
+   PRIMARY KEY(id_country,Years),
+   FOREIGN KEY(id_country) REFERENCES Country(id_country)
+);

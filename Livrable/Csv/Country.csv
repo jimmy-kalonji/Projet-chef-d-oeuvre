@@ -1,0 +1,124 @@
+Country;ISO3166_alpha3;ISO3166_numeric;Region;SubRegion
+Algeria;DZA;12.0;Africa;Northern Africa
+Angola;AGO;24.0;Africa;Middle Africa
+Argentina;ARG;32.0;S. & Cent. America;South America
+Australia;AUS;36.0;Asia Pacific;Asia Pacific
+Austria;AUT;40.0;Europe;Europe
+Azerbaijan;AZE;31.0;CIS;CIS
+Bahrain;BHR;48.0;Middle East;Middle East
+Bangladesh;BGD;50.0;Asia Pacific;Asia Pacific
+Belarus;BLR;112.0;CIS;CIS
+Belgium;BEL;56.0;Europe;Europe
+Bolivia;BOL;68.0;S. & Cent. America;South America
+Brazil;BRA;76.0;S. & Cent. America;South America
+Brunei;BRN;96.0;Asia Pacific;Asia Pacific
+Bulgaria;BGR;100.0;Europe;Europe
+Canada;CAN;124.0;North America;North America
+Chad;TCD;148.0;Africa;Middle Africa
+Chile;CHL;152.0;S. & Cent. America;South America
+China;CHN;156.0;Asia Pacific;Asia Pacific
+China Hong Kong SAR;HKG;344.0;Asia Pacific;Asia Pacific
+Colombia;COL;170.0;S. & Cent. America;South America
+Croatia;HRV;191.0;Europe;Europe
+Cuba;CUB;192.0;S. & Cent. America;Caribbean
+Curacao;CUW;531.0;S. & Cent. America;Caribbean
+Cyprus;CYP;196.0;Europe;Europe
+Czech Republic;CZE;203.0;Europe;Europe
+DR Congo;;;;
+Denmark;DNK;208.0;Europe;Europe
+Ecuador;ECU;218.0;S. & Cent. America;South America
+Egypt;EGY;818.0;Africa;Northern Africa
+Equatorial Guinea;GNQ;226.0;Africa;Middle Africa
+Estonia;EST;233.0;Europe;Europe
+Finland;FIN;246.0;Europe;Europe
+France;FRA;250.0;Europe;Europe
+Gabon;GAB;266.0;Africa;Middle Africa
+Germany;DEU;276.0;Europe;Europe
+Greece;GRC;300.0;Europe;Europe
+Hungary;HUN;348.0;Europe;Europe
+Iceland;ISL;352.0;Europe;Europe
+India;IND;356.0;Asia Pacific;Asia Pacific
+Indonesia;IDN;360.0;Asia Pacific;Asia Pacific
+Iran;IRN;364.0;Middle East;Middle East
+Iraq;IRQ;368.0;Middle East;Middle East
+Ireland;IRL;372.0;Europe;Europe
+Israel;ISR;376.0;Middle East;Middle East
+Italy;ITA;380.0;Europe;Europe
+Japan;JPN;392.0;Asia Pacific;Asia Pacific
+Kazakhstan;KAZ;398.0;CIS;CIS
+Kuwait;KWT;414.0;Middle East;Middle East
+Latvia;LVA;428.0;Europe;Europe
+Libya;LBY;434.0;Africa;Northern Africa
+Lithuania;LTU;440.0;Europe;Europe
+Luxembourg;LUX;442.0;Europe;Europe
+Madagascar;MDG;450.0;Africa;Eastern Africa
+Malaysia;MYS;458.0;Asia Pacific;Asia Pacific
+Mexico;MEX;484.0;North America;North America
+Mongolia;MNG;496.0;Asia Pacific;Asia Pacific
+Morocco;MAR;504.0;Africa;Northern Africa
+Mozambique;MOZ;508.0;Africa;Eastern Africa
+Myanmar;MMR;104.0;Asia Pacific;Asia Pacific
+Netherlands;NLD;528.0;Europe;Europe
+Netherlands Antilles;ANT;530.0;S. & Cent. America;Caribbean
+New Caledonia;NCL;540.0;Asia Pacific;Asia Pacific
+New Zealand;NZL;554.0;Asia Pacific;Asia Pacific
+Nigeria;NGA;566.0;Africa;Western Africa
+North Macedonia;MKD;807.0;Europe;Europe
+Norway;NOR;578.0;Europe;Europe
+Oman;OMN;512.0;Middle East;Middle East
+Pakistan;PAK;586.0;Asia Pacific;Asia Pacific
+Papua New Guinea;PNG;598.0;Asia Pacific;Asia Pacific
+Peru;PER;604.0;S. & Cent. America;South America
+Philippines;PHL;608.0;Asia Pacific;Asia Pacific
+Poland;POL;616.0;Europe;Europe
+Portugal;PRT;620.0;Europe;Europe
+Qatar;QAT;634.0;Middle East;Middle East
+Republic of Congo;COG;178.0;Africa;Middle Africa
+Romania;ROU;642.0;Europe;Europe
+Russian Federation;RUS;643.0;CIS;CIS
+Saudi Arabia;SAU;682.0;Middle East;Middle East
+Serbia;SRB;688.0;Europe;Europe
+Singapore;SGP;702.0;Asia Pacific;Asia Pacific
+Slovakia;SVK;703.0;Europe;Europe
+Slovenia;SVN;705.0;Europe;Europe
+South Africa;ZAF;710.0;Africa;Southern Africa
+South Korea;KOR;410.0;Asia Pacific;Asia Pacific
+South Sudan;SSD;728.0;Africa;Eastern Africa
+Spain;ESP;724.0;Europe;Europe
+Sri Lanka;LKA;144.0;Asia Pacific;Asia Pacific
+Sudan;SDN;729.0;Africa;Eastern Africa
+Sweden;SWE;752.0;Europe;Europe
+Switzerland;CHE;756.0;Europe;Europe
+Syria;SYR;760.0;Middle East;Middle East
+Taiwan;TWN;158.0;Asia Pacific;Asia Pacific
+Thailand;THA;764.0;Asia Pacific;Asia Pacific
+Total Africa;;;;
+Total Asia Pacific;;;;
+Total CIS;;;;
+Total Central America;;;;
+Total Eastern Africa;;;;
+Total Europe;;;;
+Total European Union;;;;
+Total Middle Africa;;;;
+Total Middle East;;;;
+Total Non-OECD;;;;
+Total North America;;;;
+Total OECD;;;;
+Total S. & Cent. America;;;;
+Total Western Africa;;;;
+Total World;;;;
+Trinidad & Tobago;TTO;780.0;S. & Cent. America;Caribbean
+Tunisia;TUN;788.0;Africa;Northern Africa
+Turkey;TUR;792.0;Europe;Europe
+Turkmenistan;TKM;795.0;CIS;CIS
+US;USA;840.0;North America;North America
+USSR;SUN;810.0;CIS;CIS
+Ukraine;UKR;804.0;Europe;Europe
+United Arab Emirates;ARE;784.0;Middle East;Middle East
+United Kingdom;GBR;826.0;Europe;Europe
+Uzbekistan;UZB;860.0;CIS;CIS
+Venezuela;VEN;862.0;S. & Cent. America;South America
+Vietnam;VNM;704.0;Asia Pacific;Asia Pacific
+Yemen;YEM;887.0;Middle East;Middle East
+Zambia;ZMB;894.0;Africa;Eastern Africa
+Zimbabwe;ZWE;716.0;Africa;Eastern Africa
